@@ -15,6 +15,8 @@
 *HTML
 
 *CSS
+## link to my project
+ https://njonde.github.io/FutB/
 
 ## Support and contact details
 njonde7@gmail.com
